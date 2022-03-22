@@ -1,6 +1,6 @@
 # CityMe
 
-![Website](https://img.shields.io/website?label=CityMe&style=for-the-badge&up_message=live&url=https%3A%2F%2Fcityme.novaims.unl.pt%2F)
+<a href="https://cityme.novaims.unl.pt">![Website](https://img.shields.io/website?label=CityMe&style=for-the-badge&up_message=live&url=https%3A%2F%2Fcityme.novaims.unl.pt%2F)</a>
 ![GitHub last commit](https://img.shields.io/github/last-commit/CityMe-project/cityme?style=for-the-badge)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/instagrapi?style=for-the-badge)
     
