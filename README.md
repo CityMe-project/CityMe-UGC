@@ -148,7 +148,7 @@ pip install wikipedia
 
 <p>
   <b>Vicente De Azevedo Tang</b><br>
-  <a href ="mailto:vtang@novaims.unl.pt">Contact</a> | <a href="#" target="_blank">Github</a>
+  <a href ="mailto:vtang@novaims.unl.pt">Contact</a> | <a href="https://github.com/vicetang" target="_blank">Github</a>
 </p>
 
 <p>
