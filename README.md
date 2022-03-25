@@ -9,7 +9,9 @@ The **CityMe** project aims at creating a framework for mapping, exploring and a
 <p align="center">
 <img align="left" alt="Product Page" src="https://cityme.novaims.unl.pt/static/media/svg-map.d62718760857113ad3fd07495df17757.svg" width="250">
 
-<p>Through applying state-of-the-art spatial analysis, our framework can be applied to other cities in order to improve and enhance participatory urban planning, citizen-engagement in public policies and projects in smart cities. **CityMe** is not only restricted to characterizing different types of regions in the city, but it is also committed to contributing to the efforts of making cities more human through citizen-centered, transparent and bottom-up approaches in various applications in the context of urban intelligence.</p>
+<p>Through applying state-of-the-art spatial analysis, our framework can be applied to other cities in order to improve and enhance participatory urban planning, citizen-engagement in public policies and projects in smart cities.
+    
+**CityMe** is not only restricted to characterizing different types of regions in the city, but it is also committed to contributing to the efforts of making cities more human through citizen-centered, transparent and bottom-up approaches in various applications in the context of urban intelligence.</p>
 
 </p>
 
