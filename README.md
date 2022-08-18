@@ -41,8 +41,6 @@ The **CityMe** project aims at creating a framework for mapping, exploring and a
     <li><a href = "#db">Database</a></li>
     <li><a href = "#init">Installation</a></li>
     <li><a href = "#use">Usage</a></li>
-    <li><a href = "#socio">Age/Gender Identification</a></li>
-    <li><a href = "#poi">Google POI Extraction</a></li>
     <li><a href = "#authors">Authors</a></li>
   </ol>
 </details>
@@ -148,18 +146,18 @@ The research-only API enables downloading geo-tagged real-estate listing. Please
 pip install wikipedia
 ```
 
-<h2 id = "socio">Age/Gender Identification</h2>
+<b>Age/Gender Identification</b>
 
 Identify age/gender of a user using the profile picture. Use `identify.ipynb` and place your images in `input_images`. Download the pretrained model from [here](https://github.com/yu4u/age-gender-estimation/releases/download/v0.5/weights.29-3.76_utk.hdf5). Not all users may be identified. 
 
 In the second part of script, you can use full name of users to identify if they are Portuguese or not and filter location based on a `region/city` column
 
-# Citation
+<i>Citation</i>
 Brandt, J., Buckingham, K., Buntain, C., Anderson, W., Ray, S., Pool, J.R., Ferrari, N. 2020. Identifying social media user demographics and topic diversity with computational social science: a case study of a major international policy forum; Journal of Computational Social Science; https://doi.org/10.1007/s42001-019-00061-9  
 
 [Inherited From This Repo](https://github.com/wri/demographic-identifier)
 
-<h2 id = "poi">Google Maps POI</h2>
+<b>Google Maps POI</b>
 
 This requires the use of your `Google Maps API` key. This code is not responsible for any costs that you might incur. The script works by reading an input `shapefile` from `input_grid` folder and reading the points `lat/lon` values. The POIs are extract from around these point within a `250` meter radius and reviews of the final outputs are then extracted as well.
 
