@@ -206,3 +206,6 @@ xarray==0.21.1
 xyzservices==2022.3.0
 yake @ git+https://github.com/LIAAD/yake@d2fc406c52d08843c2cb511d31d859980a7291e4
 zict==2.0.0
+opencv-python
+dlib
+contextlib
