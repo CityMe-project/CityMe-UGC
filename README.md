@@ -54,6 +54,7 @@ Data platforms that support user-generated geo-tagged content were used for this
   <li>Flickr</li>
   <li>Wikipedia</li>
   <li>Idealista</li>
+  <li>Google Places</li>
 </ul>
 
 <h2 id = "pre">Prerequisites</h2>
