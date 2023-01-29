@@ -164,6 +164,10 @@ This requires the use of your `Google Maps API` key. This code is not responsibl
 
 Use `poi.ipynb` to run the script
 
+<b>AirBnB</b>
+
+Airbnb data was used to collect reviews about accomodations in Lisbon from [here](http://insideairbnb.com/)
+
 <h2 id = "authors"> :heart: Authors</h2>
 
 <p>
